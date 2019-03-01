@@ -1,3 +1,3 @@
 # rsschool-2019Q1-cv
 
- https://your-githab-account.github.io/rsschool-2019Q1-cv/cv.md
+ https://vayavodzin.github.io/rsschool-2019Q1-cv/cv.md
