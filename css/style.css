@@ -28,12 +28,12 @@ section {
 }
 
 ul {
-    list-style: none; /* Remove default bullets */
+    list-style: none;
 }
 
 ul li::before {
-    content: "\2B50";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-    color: red; /* Change the color */
+    content: "\2B50";
+    color: red; 
 }
 
 footer {
