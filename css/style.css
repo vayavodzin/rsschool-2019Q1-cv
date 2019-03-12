@@ -1,0 +1,27 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    color: #1E90FF;
+}
+
+section {
+    padding: 0 20px;
+}
+
+.contacts:before {
+    content: "\1F4E9";
+    padding-right: 25px;
+}
+
+ul {
+    list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+    content: "\2B50";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: red; /* Change the color */
+}
