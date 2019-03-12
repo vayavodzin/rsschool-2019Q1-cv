@@ -16,6 +16,12 @@ section {
     padding: 0 20px;
 }
 
+.main-image {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
 .contacts:before {
     content: "\1F4E9";
     padding-right: 25px;
